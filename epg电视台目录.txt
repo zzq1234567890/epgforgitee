@@ -589,9 +589,7 @@ NOW宽频
 <channel id="Star Gold"><display-name lang="zh">Star Gold</display-name></channel>
 <channel id="STAR PLUS"><display-name lang="zh">STAR PLUS</display-name></channel>
 <channel id="Star Bharat"><display-name lang="zh">Star Bharat</display-name></channel>
-<channel id="成人節目資訊"><display-name lang="zh">成人節目資訊</display-name></channel>
-<channel id="冰火頻道"><display-name lang="zh">冰火頻道</display-name></channel>
-<channel id="成人極品台"><display-name lang="zh">成人極品台</display-name></channel>
+
 
 澳门
 <channel id="澳視澳門"><display-name lang="zh">澳視澳門</display-name></channel>
@@ -968,7 +966,7 @@ LITV及歡樂看用
 <channel id="愛爾達娛樂台"><display-name lang="zh">愛爾達娛樂台</display-name></channel>
 <channel id="靖天綜合台"><display-name lang="zh">靖天綜合台</display-name></channel>
 <channel id="靖天日本台"><display-name lang="zh">靖天日本台</display-name></channel>
-<channel id="新唐人亞太台"><display-name lang="zh">新唐人亞太台</display-name></channel>
+
 <channel id="ARIRANG阿里郎頻道"><display-name lang="zh">ARIRANG阿里郎頻道</display-name></channel>
 <channel id="Global Trekker"><display-name lang="zh">Global Trekker</display-name></channel>
 <channel id="原住民族電視台"><display-name lang="zh">原住民族電視台</display-name></channel>
@@ -1058,7 +1056,7 @@ LITV及歡樂看用
 <channel id="人間衛視"><display-name lang="zh">人間衛視</display-name></channel>
 <channel id="FRANCE24 英文台"><display-name lang="zh">FRANCE24 英文台</display-name></channel>
 <channel id="半島國際新聞台"><display-name lang="zh">半島國際新聞台</display-name></channel>
-<channel id="VOA美國之音"><display-name lang="zh">VOA美國之音</display-name></channel>
+
 <channel id="CNBC Asia 財經台"><display-name lang="zh">CNBC Asia 財經台</display-name></channel>
 <channel id="DW德國之聲"><display-name lang="zh">DW德國之聲</display-name></channel>
 <channel id="國會頻道1"><display-name lang="zh">國會頻道1</display-name></channel>
@@ -1168,7 +1166,7 @@ LITV及歡樂看用
 <channel id="民視第一台"><display-name lang="zh">民視第一台</display-name></channel>
 <channel id="民視台灣台"><display-name lang="zh">民視台灣台</display-name></channel>
 <channel id="Nice TV 靖天歡樂台"><display-name lang="zh">Nice TV 靖天歡樂台</display-name></channel>
-<channel id="新唐人亞太台"><display-name lang="zh">新唐人亞太台</display-name></channel>
+
 <channel id="八大優頻道"><display-name lang="zh">八大優頻道</display-name></channel>
 <channel id="momo綜合台HD"><display-name lang="zh">momo綜合台HD</display-name></channel>
 <channel id="信吉藝文台"><display-name lang="zh">信吉藝文台</display-name></channel>
@@ -1447,24 +1445,6 @@ BB宽频有线
 <channel id="博斯網球台"><display-name lang="zh">博斯網球台</display-name></channel>
 <channel id="博斯無限台"><display-name lang="zh">博斯無限台</display-name></channel>
 <channel id="博斯無限二台"><display-name lang="zh">博斯無限二台</display-name></channel>
-<channel id="彩虹頻道"><display-name lang="zh">彩虹頻道</display-name></channel>
-<channel id="松視4台"><display-name lang="zh">松視4台</display-name></channel>
-<channel id="Pandora潘朵啦高畫質玩美台"><display-name lang="zh">Pandora潘朵啦高畫質玩美台</display-name></channel>
-<channel id="Pandora潘朵啦高畫質粉紅台"><display-name lang="zh">Pandora潘朵啦高畫質粉紅台</display-name></channel>
-<channel id="松視1台"><display-name lang="zh">松視1台</display-name></channel>
-<channel id="松視2台"><display-name lang="zh">松視2台</display-name></channel>
-<channel id="松視3台"><display-name lang="zh">松視3台</display-name></channel>
-<channel id="彩虹E台"><display-name lang="zh">彩虹E台</display-name></channel>
-<channel id="彩虹Movie台"><display-name lang="zh">彩虹Movie台</display-name></channel>
-<channel id="K頻道"><display-name lang="zh">K頻道</display-name></channel>
-<channel id="HOT頻道"><display-name lang="zh">HOT頻道</display-name></channel>
-<channel id="HAPPY頻道"><display-name lang="zh">HAPPY頻道</display-name></channel>
-<channel id="玩家頻道"><display-name lang="zh">玩家頻道</display-name></channel>
-<channel id="驚豔成人電影台"><display-name lang="zh">驚豔成人電影台</display-name></channel>
-<channel id="香蕉台"><display-name lang="zh">香蕉台</display-name></channel>
-<channel id="樂活頻道"><display-name lang="zh">樂活頻道</display-name></channel>
-<channel id="JStar極限台電影頻道"><display-name lang="zh">JStar極限台電影頻道</display-name></channel>
-
 
 国际
 
